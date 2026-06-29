@@ -1,0 +1,8 @@
+class Solution {
+    public boolean isSameAfterReversals(int n) {
+     if(n%10!=0||n==0){
+        return true;
+     } 
+     return false;  
+    }
+}
