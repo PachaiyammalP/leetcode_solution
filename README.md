@@ -20,4 +20,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2413-smallest-even-multiple](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2413-smallest-even-multiple) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
