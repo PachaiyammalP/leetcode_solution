@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PachaiyammalP/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2367-number-of-arithmetic-triplets](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## String
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0575-distribute-candies) |
 | [0929-unique-email-addresses](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0929-unique-email-addresses) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PachaiyammalP/leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2367-number-of-arithmetic-triplets](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2367-number-of-arithmetic-triplets) |
 ## Sorting
 |  |
 | ------- |
@@ -62,8 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
+| [2367-number-of-arithmetic-triplets](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2367-number-of-arithmetic-triplets) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
