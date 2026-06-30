@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0575-distribute-candies) |
+| [0929-unique-email-addresses](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0929-unique-email-addresses) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PachaiyammalP/leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PachaiyammalP/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0929-unique-email-addresses](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0929-unique-email-addresses) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/PachaiyammalP/leetcode_solution/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0575-distribute-candies) |
+| [0929-unique-email-addresses](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0929-unique-email-addresses) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PachaiyammalP/leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
