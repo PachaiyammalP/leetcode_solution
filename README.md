@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PachaiyammalP/leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PachaiyammalP/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PachaiyammalP/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2413-smallest-even-multiple](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2413-smallest-even-multiple) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PachaiyammalP/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2413-smallest-even-multiple) |
 ## Hash Table
 |  |
