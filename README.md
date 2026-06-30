@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PachaiyammalP/leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PachaiyammalP/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -40,14 +41,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PachaiyammalP/leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PachaiyammalP/leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PachaiyammalP/leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
