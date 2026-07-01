@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0018-4sum) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0018-4sum) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2367-number-of-arithmetic-triplets) |
