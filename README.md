@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0728-self-dividing-numbers](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0728-self-dividing-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PachaiyammalP/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2413-smallest-even-multiple](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2413-smallest-even-multiple) |
