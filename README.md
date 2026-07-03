@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PachaiyammalP/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2413-smallest-even-multiple](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2427-number-of-common-factors) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2651-calculate-delayed-arrival-time) |
 | [3099-harshad-number](https://github.com/PachaiyammalP/leetcode_solution/tree/master/3099-harshad-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PachaiyammalP/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2427-number-of-common-factors) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2367-number-of-arithmetic-triplets) |
+| [2427-number-of-common-factors](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2427-number-of-common-factors) |
 ## Greedy
 |  |
 | ------- |
