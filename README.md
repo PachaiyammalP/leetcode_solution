@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
