@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2367-number-of-arithmetic-triplets) |
 ## Binary Search
 |  |
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
