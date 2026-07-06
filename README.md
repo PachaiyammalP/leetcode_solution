@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/PachaiyammalP/leetcode_solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/PachaiyammalP/leetcode_solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## String
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/PachaiyammalP/leetcode_solution/tree/master/1004-max-consecutive-ones-iii) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/PachaiyammalP/leetcode_solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/PachaiyammalP/leetcode_solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Linked List
 |  |
 | ------- |
