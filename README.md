@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PachaiyammalP/leetcode_solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0303-range-sum-query-immutable) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
