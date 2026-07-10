@@ -19,6 +19,7 @@ class MyStack {
         return s1.peek();
         
     }
+     
     
     public boolean empty() {
         if(s1.isEmpty()==true){
