@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0234-palindrome-linked-list) |
