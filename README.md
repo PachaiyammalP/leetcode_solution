@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0303-range-sum-query-immutable) |
 ## Divide and Conquer
 |  |
@@ -237,5 +239,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
