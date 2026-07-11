@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0739-daily-temperatures) |
 | [0929-unique-email-addresses](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0929-unique-email-addresses) |
 | [1004-max-consecutive-ones-iii](https://github.com/PachaiyammalP/leetcode_solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PachaiyammalP/leetcode_solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -247,8 +248,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
