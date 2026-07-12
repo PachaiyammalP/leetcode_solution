@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
@@ -250,10 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
