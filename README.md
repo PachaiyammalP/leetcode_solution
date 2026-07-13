@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0424-longest-repeating-character-replacement) |
+| [0460-lfu-cache](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0567-permutation-in-string) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0234-palindrome-linked-list) |
+| [0460-lfu-cache](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0303-range-sum-query-immutable) |
+| [0460-lfu-cache](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0901-online-stock-span) |
 ## Divide and Conquer
 |  |
@@ -308,4 +311,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/PachaiyammalP/leetcode_solution/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
